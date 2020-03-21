@@ -17,8 +17,7 @@
 	一般试2-5个
 	5. 模型优化，主要目的是获取模型合理的参数
 		1. 借助于sklearn的网格搜索
-			GridSearchCV
-				适合少量特征
+			GridSearchCV -- 适合少量特征
 		2. 借助于sklearn的随机搜索
 			RandomizedSearchCV
 		3. 模型集成
